@@ -1,0 +1,54 @@
+/* css for item card */
+.item-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .item-image {
+    position: relative;
+  }
+  
+  .item-image img {
+    width: 100%;
+    max-width: 200px;
+    height: 250px;
+  }
+  
+  .rating{
+    background-color: green;
+    display: inline-block;
+    border-radius: 3px;
+    width: 50px;
+  }
+  
+  .item-details>h4 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .item-details p {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  .item-price {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+  }
+  
+
+  .new-price {
+    color: #c00;
+    font-size: 1.5rem;
+  }
+  
+ 
+  
