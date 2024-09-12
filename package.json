@@ -9,11 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
-    "smtp-server": "^3.13.5"
-=======
-    "nodemon": "^3.1.4",
     "smtp-server": "^3.13.4"
->>>>>>> 1afe893c7ed5d4a1da8a5f54f5916f97813c73d2
   }
 }
